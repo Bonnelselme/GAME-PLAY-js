@@ -1,0 +1,21 @@
+{
+  "name": "quizzjs",
+  "version": "0.0.1",
+  "description": "Application de Quizz en ligne",
+  "main": "server.js",
+  "repository": "https://github.com/us3soap/quizzjs",
+  "author": "kevin valette<kevin.valette@gmail.com>",
+  "dependencies": {
+    "ejs": "~2.3.1",
+    "express": "~3.2.4",
+    "moment": "^2.11.2",
+    "mongodb": "^2.1.14",
+    "qr-image": "~3.1.0",
+    "rand-token": "~0.2.1",
+    "rangeslider-pure": "^0.3.8",
+    "socket.io": "~0.9.14"
+  },
+  "devDependencies": {
+    "mocha": "~2.1.0"
+  }
+}
